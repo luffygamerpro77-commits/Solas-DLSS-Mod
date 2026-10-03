@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Run
+run/
